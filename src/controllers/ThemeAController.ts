@@ -1,8 +1,9 @@
+const burr = require("../data/mockBeats.json");
+
 class ThemeAController {
   defaultMethod() {
-    return {
-      text: `You've reached the ${this.constructor.name} default method`
-    };
+    console.log(burr[1]);
+    return burr;
   }
 }
 
