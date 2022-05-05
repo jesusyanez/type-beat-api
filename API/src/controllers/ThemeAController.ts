@@ -1,4 +1,4 @@
-const burr = require("../data/mockBeats.json");
+import burr from "../data/mockBeats.json";
 
 class ThemeAController {
   defaultMethod() {
