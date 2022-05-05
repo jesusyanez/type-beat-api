@@ -1,2 +1,2 @@
-# Backend-app-starter
-Express backend routing w/ Typescript &amp; Node.js
+# Type Beat API
+This api returns a random trap type beat from youtube.
