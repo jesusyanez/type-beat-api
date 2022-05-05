@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "@yimura/scraper": "^1.2.3"
-  }
+  },
+  "type": "module"
 }
